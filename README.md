@@ -106,11 +106,13 @@ To install packages pip install package_name or you can create a new file requir
 
 ## **GitHub link**
 
-•	https://github.com/tariniteam/NewsNotificationService/
+•	https://github.com/tariniteam/NewsAggregationService
 
 ## **Contributors**
 
 1.	Harsha Navalkar ( https://www.linkedin.com/in/harsha-navalkar-00085515b/ )
 2.	Vikram Mahapatra (https://www.linkedin.com/in/vikrammahapatra  )
+3.	Nilesh Navalkar (https://www.linkedin.com/in/nilesh-navalkar-149212236/ )
+4.	Shruti Gupta ( https://www.linkedin.com/in/shruti-gupta-10610445/ )
 
 
