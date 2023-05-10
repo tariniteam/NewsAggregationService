@@ -76,23 +76,23 @@ To install packages pip install package_name or you can create a new file requir
 
 
 
-### II.	Create Framework for Database API
+### II.	Create Framework for 
 
 - Packages Used - sqlalchemy 
 - Concept used - ORM (Object Relational Mapping) 
 
 
 
-### III.	Create Framework for News API
+### III.	Create Framework for 
 
  
 
 
 
-### IV.	Create Framework for Gmail API
+### IV.	Create Framework for 
 
 
-### V.	Create Framework for Whatsapp API
+### V.	Create Framework for  
 
 
 
