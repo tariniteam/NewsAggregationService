@@ -1,51 +1,116 @@
 # NewsAggregationService
 
-
-Architecture Diagram
-
-
-Usage of NNS
-
-Prerequisites
-
-Tools/Technologies used
-
-Python (Download from https://www.python.org/downloads/)
-Pycharm
-SQLite Database
-Required Python packages
-BeautifulSoup (bs4)
-smtplib
-Sqlite3
-requests
-pandas
-pywhatkit
-Project Structure
-Technical Implementation
-
-I. Prepare your Environment
-
-
-II. Create Framework for Database API
+## **Problem Statement**
 
 
 
-III. Create Framework for News API
+## **Solution**
 
 
-IV. Create Framework for Gmail API
 
 
-V. 
+## **Architecture Diagram**
 
 
-VI. 
 
-Conclusion
+## **Usage of NAS**
 
-GitHub link
-• https://github.com/tariniteam/NewsNotificationService/
 
-Contributors
-Harsha Navalkar ( https://www.linkedin.com/in/harsha-navalkar-00085515b/ )
-Vikram Mahapatra (https://www.linkedin.com/in/vikrammahapatra )
+
+
+## **Prerequisites**
+
+
+### Tools/Technologies used
+
+
+1.	Python (Download from https://www.python.org/downloads/)
+2.	Pycharm
+3.	SQLite Database
+
+
+### Required Python packages
+
+1.	BeautifulSoup (bs4)
+2.	smtplib
+3.	Sqlite3
+4.	requests
+5. pandas
+6. pywhatkit
+
+
+### Project Structure
+
+
+
+## **Technical Implementation**
+
+
+### I.	Prepare your Environment
+
+1.	Create a virtual environment in python 
+
+              virtualenv venv_project_name
+
+
+2.	Add Python Interpreter to the pycharm project by following below steps:
+     - Go to Settings
+     - Choose Python Interpreter
+     - Add Local Interpreter
+     - Choose virtualenv environment
+     - Choose Existing Environment and install the packages 
+
+
+3.	Install the python packages in the virtual environment described in the pre-requisite section.
+
+              pip install <packagename>
+       
+
+To install packages pip install package_name or you can create a new file requirements.txt (this file will contains one package name each row) and install all packages once using : pip install -r requirements.txt
+ 
+ 
+4.	Create project structure as mentioned in the pre-requisite section.
+
+
+
+
+
+
+### II.	Create Framework for Database API
+
+- Packages Used - sqlalchemy 
+- Concept used - ORM (Object Relational Mapping) 
+
+
+
+### III.	Create Framework for News API
+
+ 
+
+
+
+### IV.	Create Framework for Gmail API
+
+
+### V.	Create Framework for Whatsapp API
+
+
+
+### VI.	Main NNS Process
+
+
+
+### **Conclusion**
+
+
+
+## **GitHub link**
+
+•	https://github.com/tariniteam/NewsNotificationService/
+
+## **Contributors**
+
+1.	Harsha Navalkar ( https://www.linkedin.com/in/harsha-navalkar-00085515b/ )
+2.	Vikram Mahapatra (https://www.linkedin.com/in/vikrammahapatra  )
+
+
